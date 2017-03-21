@@ -1,8 +1,6 @@
-#flip,#panel{padding:5px;text-align:center;background-color:#e5eecc;border:solid 1px #c3c3c3}
-#panel{padding:50px;display:none}
 .row{font-size:3.8em;line-height:2;background:#9acd32}
 .row .col-md-push-8{color:#000}
-.row .col-md-pull-4{float:right;color:#fff;font-weight:800}
+.row .col-md-pull-4{color:#fff;font-weight:800}
 .nav-menu{float:right}
-.nav-menu .panel{width:200px;display:none;display:block}
+.nav-menu .panel{display:none;width:200px}
 .nav-menu .panel a{font-size:3em;color:rgba(0,0,0,.3);line-height:2}
