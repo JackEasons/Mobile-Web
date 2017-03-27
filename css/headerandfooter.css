@@ -37,7 +37,7 @@ body {
   z-index: 1;
   position: relative;
   width: 50%;
-  margin: 190px 130px 0 auto;
+  margin: 190px 10% 0 auto;
   background-color: rgba(225, 225, 225, 0);
   font-family: 'SouvenirITCbyBT9802f599d186ca';
   color: white;
@@ -48,7 +48,7 @@ body {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
     font-weight: 600; }
   .jumbotron h2 {
-    width: 60%; }
+    width: 600px; }
   .jumbotron p {
     color: rgba(255, 255, 255, 0.4); }
 
