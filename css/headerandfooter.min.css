@@ -20,5 +20,5 @@ body{overflow-x:hidden}
 #thanks{width:100%;bottom:0;user-select:none;cursor:default}
 #thanks-position{width:100%;border-top:1px rgba(0,0,0,.3)solid;text-align:center;line-height:2.5;color:rgba(0,0,0,.6);font-size:.73em}
 .jumbotron{width:100%;margin-top:130px}
-video{width:100%}
+video{width:100%;border:1px #999 solid}
 .background{height:500px}}

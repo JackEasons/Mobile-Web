@@ -115,7 +115,8 @@ body {
     margin-top: 130px; }
 
   video {
-    width: 100%; }
+    width: 100%;
+    border: 1px #999999 solid; }
 
   .background {
     height: 500px; } }
