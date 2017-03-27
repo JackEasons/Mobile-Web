@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/css/headerandfooter.css" line="32" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3142370b-0e61-4de4-a977-ee9ce3e9b162" name="Default" comment="" />
+    <list default="true" id="3142370b-0e61-4de4-a977-ee9ce3e9b162" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/headerandfooter.css" afterPath="$PROJECT_DIR$/css/headerandfooter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/headerandfooter.min.css" afterPath="$PROJECT_DIR$/css/headerandfooter.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/headerandfooter.scss" afterPath="$PROJECT_DIR$/css/headerandfooter.scss" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -43,8 +47,8 @@
       <file leaf-file-name="headerandfooter.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/headerandfooter.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="131" column="30" lean-forward="false" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
+            <state relative-caret-position="203">
+              <caret line="101" column="19" lean-forward="false" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -294,12 +298,12 @@
       <workItem from="1490608549734" duration="1788000" />
       <workItem from="1490614791746" duration="5909000" />
       <workItem from="1490626183940" duration="600000" />
-      <workItem from="1490628283072" duration="3160000" />
+      <workItem from="1490628283072" duration="3228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71975000" />
+    <option name="totallyTimeSpent" value="72043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -798,8 +802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/headerandfooter.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="131" column="30" lean-forward="false" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
+        <state relative-caret-position="203">
+          <caret line="101" column="19" lean-forward="false" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
           <folding />
         </state>
       </provider>
