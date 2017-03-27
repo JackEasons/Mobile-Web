@@ -48,11 +48,9 @@ body {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
     font-weight: 600; }
   .jumbotron h2 {
-    padding-bottom: 3px;
-    border-bottom: 2px whitesmoke solid;
     width: 60%; }
-  .jumbotron code {
-    color: green; }
+  .jumbotron p {
+    color: rgba(255, 255, 255, 0.4); }
 
 #thanks {
   width: 100%;
