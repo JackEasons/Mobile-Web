@@ -8,6 +8,9 @@ body {
   user-select: none;
   cursor: default;
   height: 680px; }
+  .background .header {
+    height: 60px;
+    overflow: hidden; }
   .background h1 {
     color: whitesmoke;
     font-weight: 600;
@@ -20,7 +23,7 @@ body {
       font-weight: 700;
       letter-spacing: 1px;
       color: whitesmoke;
-      font-size: 17px;
+      font-size: 18px;
       text-decoration: none; }
     .background li a:hover {
       padding-bottom: 8px;
@@ -78,5 +81,9 @@ body {
     font-family: "Courier New", Courier, monospace;
     line-height: 100px;
     margin-top: 100px; }
+
+@media (min-width: 768px) {
+  * {
+    background-color: yellowgreen; } }
 
 /*# sourceMappingURL=headerandfooter.css.map */
